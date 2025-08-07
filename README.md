@@ -6,7 +6,7 @@ This project was built with the goal of simulating a real-world system for manag
 
 ---
 
-## ✨ What You Can Do with It
+##  What You Can Do with It
 
 - Book new gas cylinders for customers  
 - Check previous refill and booking history  
@@ -17,7 +17,7 @@ This project was built with the goal of simulating a real-world system for manag
 
 ---
 
-## 🧩 How the Project is Structured
+##  How the Project is Structured
 
 The code is divided into multiple packages and modules to keep things organized:
 
@@ -30,7 +30,7 @@ We’ve used **interfaces, classes, methods, and Java's built-in Date functions*
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - **Java** – the core language used throughout
 - **IntelliJ IDEA** – used for development
@@ -39,7 +39,7 @@ We’ve used **interfaces, classes, methods, and Java's built-in Date functions*
 
 ---
 
-## 💡 Why I Built This
+##  Why I Built This
 
 The idea behind this project was to build something that mimics real-world business operations — in this case, a local gas agency CRM. It helped me practice:
 
@@ -50,7 +50,7 @@ The idea behind this project was to build something that mimics real-world busin
 
 ---
 
-## 🔧 Getting Started
+##  Getting Started
 
 1. Make sure you have Java installed (JDK 11+).
 2. Clone this repo:
